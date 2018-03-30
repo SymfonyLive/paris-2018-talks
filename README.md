@@ -242,7 +242,7 @@ By [Alain Hippolyte](https://connect.sensiolabs.com/profile/aloneh)
   <dd>Gérer les étapes de validation d’une application peut vite devenir un casse tête. Le composant Workflow de Symfony a été introduit en 3.2 pour simplifier la vie de tous les développeurs qui avaient besoin de gérer des graphs, processus de validation et/ou machines à états. J’ai eu l’occasion de m’y frotter sur le projet d’un grand compte et j’aimerais vous faire part de cette expérience. Vous décrire cette mise en place sera également l’occasion de dévoiler deux petites révolutions qui seront bientôt livrées à la communauté.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/simperfit/le-composant-workflow-de-symfony-cest-graphement-bien)  
 ~~Video~~
 
 By [Hamza Amrouche](https://connect.sensiolabs.com/profile/simperfit)  
