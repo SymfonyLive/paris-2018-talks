@@ -264,3 +264,65 @@ By [Hamza Amrouche](https://connect.sensiolabs.com/profile/simperfit)
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
 ![github](icon/github.png) [@saro0h](https://github.com/saro0h)  
 ![twitter](icon/twitter.png) [@Saro0h](https://twitter.com/Saro0h)
+
+---
+
+---
+
+---
+
+# Lightning Talks
+
+## Platforme Digitale en architecture micro-service
+
+~~Slides~~
+
+---
+
+## Bloom: un environnement de développement qui tient dans la poche
+
+[Slides](https://slideshare.net/yannickmodahgouez1/bloom-by-sticksh-symfony-live-2018)
+
+By [Yannick Gouez](https://connect.sensiolabs.com/profile/yannickgouez)  
+![github](icon/github.png) [@yannickmodahgouez](https://github.com/yannickmodahgouez)  
+![twitter](icon/twitter.png) [@yannickgouez](https://twitter.com/yannickgouez)
+
+---
+
+## Ports & Adapters with Symfony 4
+
+~~Slides~~
+
+By [Lucas Courot](https://connect.sensiolabs.com/profile/lucascourot)  
+![github](icon/github.png) [@lucascourot](https://github.com/lucascourot)  
+![twitter](icon/twitter.png) [@lucas_courot](https://twitter.com/lucas_courot)
+
+---
+
+## Design patterns
+
+~~Slides~~  
+[Code](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+By [Sylvain Lejeune](https://connect.sensiolabs.com/profile/yeppao)
+
+---
+
+## Introducing Panthère
+
+~~Slides~~  
+[Code](https://github.com/dunglas/panthere)
+
+By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
+![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
+![twitter](icon/twitter.png) [@dunglas](https://twitter.com/dunglas)
+
+---
+
+## Une IA Neat Plus Ultra
+
+~~Slides~~
+
+By [Grégoire Hébert](https://connect.sensiolabs.com/profile/gregoirehebert)  
+![github](icon/github.png) [@GregoireHebert](https://github.com/GregoireHebert)  
+![twitter](icon/twitter.png) [@gheb_dev](https://twitter.com/gheb_dev)
