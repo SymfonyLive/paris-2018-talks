@@ -206,7 +206,7 @@ By [Gary Pegeot](https://connect.sensiolabs.com/profile/gary-p)
   <dd>GraphQL est une alternative aux architectures REST pour la réalisation d’API web. Le langage promu par Facebook a des avantages indéniables : récupération des données utiles uniquement, limitation du nombre de requêtes, typage fort, syntaxe puissante et bien pensée… Cependant, il souffre aussi de défauts souvent sous-estimés parmi lesquels l’incompatibilité avec les mécanismes de cache, de log, de sécurité ou d’auth qui forment la base du stack web d’aujourd’hui, ou la nécessité d'un parser spécifique. De plus, les formats hypermedias modernes s’appuyant sur REST disposent de fonctionnalités très similaires tout en restant compatibles avec les fondements du web. Le framework API Platform, basé sur Symfony, permet de créer très facilement des API REST (JSON-LD, JSON API…) et GraphQL. Après avoir énuméré les avantages et inconvénients des différents formats, nous étudierons au travers de différents cas d’usages quand il est préférable d’utiliser GraphQL, REST ou les 2 en complément.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dunglas/rest-vs-graphql-illustrated-examples-with-the-api-platform-framework)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
