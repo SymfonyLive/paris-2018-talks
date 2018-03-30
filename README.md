@@ -148,7 +148,7 @@ And [Maxime Veber](https://connect.sensiolabs.com/profile/nek-)
   <dd>PHP 7.0 est déjà de l'histoire ancienne. Mais savez-vous en tirer partie à fond ? Si le moteur est plus rapide sur toutes les opérations en général, il y en a quelques unes qui sont particulièrement optimisées. Avec PHP 5, vous avez peut-être pris certains réflexes qui ne sont plus d'actualité, pour soi-disant écrire du code plus performant ? Je vous propose de passer en revues les différentes techniques d'optimisation mises en place dans Symfony, qui font de la v4 la plus rapide jamais publiée. Ce sera l'occasion de tordre le coup à quelques idées reçues, et de vous en donner quelques autres pour le jour où vous chercherez à presser les dernières millisecondes hors de cette boucle intensive. Benchmark à l'appui évidement.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicolasgrekas/tirer-le-maximum-du-moteur-php-7-lexemple-de-symfony)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
