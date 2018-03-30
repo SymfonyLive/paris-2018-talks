@@ -128,14 +128,14 @@ By [Théo Fidry](https://connect.sensiolabs.com/profile/theofidry)
   <dd>Doctrine est un ORM, il permet de mettre en correspondance un modèle objet et un modèle de base de données. Même s’il est capable de reverse-engineer une base de données, il est plutôt conseillé de concevoir d’abord votre architecture et seulement ensuite de faire en sorte que Doctrine persiste votre modèle. Contrairement aux idées reçues, Doctrine est très souple et vous impose peu de choses, nous verrons ensemble comment persister des modèles moins classiques que d’ordinaire et parcourir librement le monde de l’architecture logicielle.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://talks.nekland.fr/Doctrine)   
 ~~Video~~
 
 By [Grégoire Paris](https://connect.sensiolabs.com/profile/greg0ire)  
 ![github](icon/github.png) [@greg0ire](https://github.com/greg0ire)  
 ![twitter](icon/twitter.png) [@greg0ire](https://twitter.com/greg0ire)
 
-And [Grégoire Paris](https://connect.sensiolabs.com/profile/nek-)  
+And [Maxime Veber](https://connect.sensiolabs.com/profile/nek-)  
 ![github](icon/github.png) [@Nek-](https://github.com/Nek-)  
 ![twitter](icon/twitter.png) [@Nekdev](https://twitter.com/Nekdev)
 
