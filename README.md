@@ -333,3 +333,34 @@ By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)
 By [Grégoire Hébert](https://connect.sensiolabs.com/profile/gregoirehebert)  
 ![github](icon/github.png) [@GregoireHebert](https://github.com/GregoireHebert)  
 ![twitter](icon/twitter.png) [@gheb_dev](https://twitter.com/gheb_dev)
+
+---
+
+## Go beyond composer update : Contribute !
+
+~~Slides~~
+
+By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
+![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
+![twitter](icon/twitter.png) [@nicolasgrekas](https://twitter.com/nicolasgrekas)
+
+---
+
+## ASYNIT
+
+~~Slides~~  
+[Code](https://github.com/jolicode/asynit)
+
+By [Joel Wurtz](https://connect.sensiolabs.com/profile/brouznouf)  
+![github](icon/github.png) [@Brouznouf](https://github.com/Brouznouf)  
+![twitter](icon/twitter.png) [@Brouznouf](https://twitter.com/Brouznouf)
+
+---
+
+## ZeSH gros ! Quelques tips and tricks sur Zsh avec oh-my-zsh
+
+[Slides](https://slides.com/keversc/zesh-gros)  
+
+By [Kevin Verschaeve](https://connect.sensiolabs.com/profile/keversc)  
+![github](icon/github.png) [@kevin-verschaeve](https://github.com/kevin-verschaeve)  
+![twitter](icon/twitter.png) [@keversc](https://twitter.com/keversc)
