@@ -326,8 +326,8 @@ By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)
   <dd>Présentation sur le Machine Learning et comment réaliser une IA en 40 minutes.</dd>
 </dl>
 
-[Slides](https://slides.com/gheb/neat-plus-ultra-uc)
-[Code (Tamagotchi)](https://github.com/GregoireHebert/tamagotchi)
+[Slides](https://slides.com/gheb/neat-plus-ultra-uc)  
+[Code (Tamagotchi)](https://github.com/GregoireHebert/tamagotchi)  
 [Code (Neural Network)](https://github.com/GregoireHebert/sflive-nn)
 
 By [Grégoire Hébert](https://connect.sensiolabs.com/profile/gregoirehebert)  
