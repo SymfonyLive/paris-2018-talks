@@ -322,6 +322,8 @@ By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)
 ## Une IA Neat Plus Ultra
 
 [Slides](https://slides.com/gheb/neat-plus-ultra-uc)
+[Code (Tamagotchi)](https://github.com/GregoireHebert/tamagotchi)
+[Code (Neural Network)](https://github.com/GregoireHebert/sflive-nn)
 
 By [Grégoire Hébert](https://connect.sensiolabs.com/profile/gregoirehebert)  
 ![github](icon/github.png) [@GregoireHebert](https://github.com/GregoireHebert)  
