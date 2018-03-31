@@ -321,7 +321,7 @@ By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)
 
 ## Une IA Neat Plus Ultra
 
-~~Slides~~
+[Slides](https://slides.com/gheb/neat-plus-ultra-uc)
 
 By [Grégoire Hébert](https://connect.sensiolabs.com/profile/gregoirehebert)  
 ![github](icon/github.png) [@GregoireHebert](https://github.com/GregoireHebert)  
