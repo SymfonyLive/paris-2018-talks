@@ -112,7 +112,7 @@ By [Romain Kuzniak](https://connect.sensiolabs.com/profile/romainkuzniak)
   <dd>Testez vous votre code ? Et vos tests ? Est-ce que vous les testez eux aussi ? Vos tests sont peu différents du reste de votre code : vous devez l'écrire, le maintenir, le mettre à jour... Découvrez une façon efficace de tester vos tests avec peu d'effort avec le Mutation Testing !</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar)  
+[Slides](https://speakerdeck.com/theofidry/mutation-testing-better-code-by-making-bugs-1)  
 ~~Video~~
 
 By [Théo Fidry](https://connect.sensiolabs.com/profile/theofidry)  
