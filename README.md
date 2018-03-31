@@ -226,7 +226,7 @@ Ce talk est destiné au développeur backend désireux de connecter son API à u
 Le monde du développement frontend est gigantesque, ce talk pourrait être la première étape de votre prochain nouveau voyage !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/alainhippolyte1/symfony-live-2018-dveloppez-votre-frontend-avec-reactjs-et-symfony-webpack-encore)  
 ~~Video~~
 
 By [Alain Hippolyte](https://connect.sensiolabs.com/profile/aloneh)  
