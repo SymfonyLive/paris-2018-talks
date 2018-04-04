@@ -352,8 +352,8 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
 [Code](https://github.com/jolicode/asynit)
 
 By [Joel Wurtz](https://connect.sensiolabs.com/profile/brouznouf)  
-![github](icon/github.png) [@Brouznouf](https://github.com/Brouznouf)  
-![twitter](icon/twitter.png) [@Brouznouf](https://twitter.com/Brouznouf)
+![github](icon/github.png) [@joelwurtz](https://github.com/joelwurtz)  
+![twitter](icon/twitter.png) [@JoelWurtz](https://twitter.com/JoelWurtz)
 
 ---
 
