@@ -190,7 +190,7 @@ By [Samuel Roze](https://connect.sensiolabs.com/profile/sroze)
 Cette présentation sera illustrée avec des cas concrets d'utilisation.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://github.com/GaryPEGEOT/symfony-live-2018-httplug/raw/master/presentation.pdf)  
 ~~Video~~
 
 By [Gary Pegeot](https://connect.sensiolabs.com/profile/gary-p)  
