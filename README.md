@@ -258,7 +258,7 @@ By [Hamza Amrouche](https://connect.sensiolabs.com/profile/simperfit)
   <dd>Il s'est passé beaucoup de choses depuis un an ! 52 billets de blog pour vous tenir au courant de toutes les nouveautés, un tas de "pull requests", une nouvelle version majeure, 2 mineurs... Eh bien, je suis sûr que vous avez raté quelque chose. Revenons un peu sur ce qui s'est passé au cours de l'année dernière : nous allons voir et/ou découvrir de belles nouveautés qui sont apparues depuis un an.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/saro0h/symfonylive-paris-une-annee-de-symfony)  
 ~~Video~~
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
