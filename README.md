@@ -291,7 +291,7 @@ By [Yannick Gouez](https://connect.sensiolabs.com/profile/yannickgouez)
 
 ## Ports & Adapters with Symfony 4
 
-[Slides](https://speakerdeck.com/lucascourot/ports-and-adapters-with-symfony-4)
+[Slides](https://speakerdeck.com/lucascourot/ports-and-adapters-with-symfony-4)  
 [Code](https://github.com/lucascourot/PHPKataTrainReservation)
 
 By [Lucas Courot](https://connect.sensiolabs.com/profile/lucascourot)  
