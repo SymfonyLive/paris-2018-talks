@@ -96,7 +96,7 @@ By [Romain Gautier](https://connect.sensiolabs.com/profile/mykiwi)
   <dd>Le livre Clean Architecture de Robert Martin (Uncle Bob), l'auteur à l'origine des principes SOLID vient de sortir. C'est l'occasion de faire un tour sur les différentes architectures (MVC, Service Layer, DDD et Clean Architecture) et leurs intégrations avec Symfony. Cette présentation présente un exemple d'application sous Symfony et les différentes implémentation dans les différentes architectures. Et comment la « Clean Architecture » est utilisée chez OpenClassrooms depuis plus de 4 ans.</dd>
 </dl>
 
-[Slides](https://fr.slideshare.net/RomainKuzniak/design-applicatif-avec-symfony-zoom-sur-la-clean-architecture-symfony-live)  
+[Slides](https://slideshare.net/RomainKuzniak/design-applicatif-avec-symfony-zoom-sur-la-clean-architecture-symfony-live)  
 ~~Video~~  
 
 By [Romain Kuzniak](https://connect.sensiolabs.com/profile/romainkuzniak)  
