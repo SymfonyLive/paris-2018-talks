@@ -11,7 +11,7 @@
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/GaFXOowocfk)
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
@@ -27,7 +27,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
 </dl>
 
 [Slides](https://speakerdeck.com/de_la_tech/architecture-modulaire-grace-a-symfony-et-lecosysteme-open-source)  
-~~Video~~  
+[Video](https://youtu.be/_9l6-ocqJAU)  
 [Code](https://github.com/AudienceHero/AudienceHero)
 
 By [Marc Weistroff](https://connect.sensiolabs.com/profile/futurecat)  
@@ -43,8 +43,8 @@ By [Marc Weistroff](https://connect.sensiolabs.com/profile/futurecat)
   <dd>La traduction d'une application est une étape primordiale dans un projet international. Comment faire travailler toutes ces personnes efficacement, et garder l'intégrité des traductions de l'application ? C'est ce que je vous propose d'aborder dans cette conférence. Nous verrons ensemble quels outils externes utiliser pour faciliter la traduction aussi bien pour les développeurs, que les traducteurs, mais aussi pour les intervenants en qualité qui sont chargés de vérifier tout ce travail. Nous verrons également comment brancher ces outils au sein de Symfony pour bénéficier d'un workflow de traduction cohérent et simple d'utilisation d'un environnement local à la production. À la fin de la conférence vous n'aurez qu'une envie, mettre à jour vos projets avec ces outils pour enfin vous épargner de longues journées de mise à jours de traductions !</dd>
 </dl>
 
-[Slides](https://welcomattic.github.io/traduire-efficacement-une-app-symfony)  
-~~Video~~
+[Slides](https://welcomattic.github.io/traduire-efficacement-une-app-symfony/symfony-live-paris-2018/index.html)  
+[Video](https://youtu.be/zP6vbkc-GJY)
 
 By [Mathieu Santostefano](https://connect.sensiolabs.com/profile/welcomattic)  
 ![github](icon/github.png) [@welcoMattic](https://github.com/welcoMattic)  
@@ -66,7 +66,7 @@ Nous résoudrons ce problème en abordant plusieurs solutions possibles telles q
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/hF6ivyditDI)
 
 By [Estelle LE CAM](https://connect.sensiolabs.com/profile/estelle_ac)  
 
@@ -80,7 +80,7 @@ By [Estelle LE CAM](https://connect.sensiolabs.com/profile/estelle_ac)
 </dl>
 
 [Slides](https://speakerdeck.com/mykiwi/outils-pour-ameliorer-la-vie-des-developpeurs-symfony)  
-~~Video~~  
+[Video](https://youtu.be/_OEDoPMvNY4)  
 [Code](https://github.com/mykiwi/symfony-bootstrapped)  
 
 By [Romain Gautier](https://connect.sensiolabs.com/profile/mykiwi)  
@@ -97,7 +97,7 @@ By [Romain Gautier](https://connect.sensiolabs.com/profile/mykiwi)
 </dl>
 
 [Slides](https://slideshare.net/RomainKuzniak/design-applicatif-avec-symfony-zoom-sur-la-clean-architecture-symfony-live)  
-~~Video~~  
+[Video](https://youtu.be/k-bb_DwRDwQ)  
 
 By [Romain Kuzniak](https://connect.sensiolabs.com/profile/romainkuzniak)  
 ![github](icon/github.png) [@romainkuzniak](https://github.com/romainkuzniak)  
@@ -113,7 +113,7 @@ By [Romain Kuzniak](https://connect.sensiolabs.com/profile/romainkuzniak)
 </dl>
 
 [Slides](https://speakerdeck.com/theofidry/mutation-testing-better-code-by-making-bugs-1)  
-~~Video~~
+[Video](https://youtu.be/CuY_FtDq0yQ)
 
 By [Théo Fidry](https://connect.sensiolabs.com/profile/theofidry)  
 ![github](icon/github.png) [@theofidry](https://github.com/theofidry)  
@@ -129,7 +129,7 @@ By [Théo Fidry](https://connect.sensiolabs.com/profile/theofidry)
 </dl>
 
 [Slides](http://talks.nekland.fr/Doctrine)   
-~~Video~~
+[Video](https://youtu.be/KJ3uCPqNdPE)
 
 By [Grégoire Paris](https://connect.sensiolabs.com/profile/greg0ire)  
 ![github](icon/github.png) [@greg0ire](https://github.com/greg0ire)  
@@ -149,7 +149,7 @@ And [Maxime Veber](https://connect.sensiolabs.com/profile/nek-)
 </dl>
 
 [Slides](https://speakerdeck.com/nicolasgrekas/tirer-le-maximum-du-moteur-php-7-lexemple-de-symfony)  
-~~Video~~
+[Video](https://youtu.be/9tigujApc4s)
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
@@ -167,7 +167,7 @@ Je vous propose de découvrir cette nouvelle notion de "message" et comment l'ut
 </dl>
 
 [Slides](https://slideshare.net/samuelroze/symfony-messenger-queues-workers-more)  
-~~Video~~  
+[Video](https://youtu.be/xRx4GPzf4L0)  
 [Code](https://github.com/symfony/messenger)
 
 By [Samuel Roze](https://connect.sensiolabs.com/profile/sroze)  
@@ -191,7 +191,7 @@ Cette présentation sera illustrée avec des cas concrets d'utilisation.</dd>
 </dl>
 
 [Slides](https://github.com/GaryPEGEOT/symfony-live-2018-httplug/raw/master/presentation.pdf)  
-~~Video~~
+[Video](https://youtu.be/HbCUDo7bz6Q)
 
 By [Gary Pegeot](https://connect.sensiolabs.com/profile/gary-p)  
 ![github](icon/github.png) [@GaryPEGEOT](https://github.com/GaryPEGEOT)  
@@ -207,7 +207,7 @@ By [Gary Pegeot](https://connect.sensiolabs.com/profile/gary-p)
 </dl>
 
 [Slides](https://speakerdeck.com/dunglas/rest-vs-graphql-illustrated-examples-with-the-api-platform-framework)  
-~~Video~~
+[Video](https://youtu.be/Tigo520LRgU)
 
 By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
 ![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
@@ -227,7 +227,7 @@ Le monde du développement frontend est gigantesque, ce talk pourrait être la p
 </dl>
 
 [Slides](https://slideshare.net/alainhippolyte1/symfony-live-2018-dveloppez-votre-frontend-avec-reactjs-et-symfony-webpack-encore)  
-~~Video~~
+[Video](https://youtu.be/tymGT2eJ59M)
 
 By [Alain Hippolyte](https://connect.sensiolabs.com/profile/aloneh)  
 ![github](icon/github.png) [@alOneh](https://github.com/alOneh)  
@@ -243,7 +243,7 @@ By [Alain Hippolyte](https://connect.sensiolabs.com/profile/aloneh)
 </dl>
 
 [Slides](https://speakerdeck.com/simperfit/le-composant-workflow-de-symfony-cest-graphement-bien)  
-~~Video~~
+[Video](https://youtu.be/0SthcLMf248)
 
 By [Hamza Amrouche](https://connect.sensiolabs.com/profile/simperfit)  
 ![github](icon/github.png) [@Simperfit](https://github.com/Simperfit)  
@@ -259,7 +259,7 @@ By [Hamza Amrouche](https://connect.sensiolabs.com/profile/simperfit)
 </dl>
 
 [Slides](https://speakerdeck.com/saro0h/symfonylive-paris-une-annee-de-symfony)  
-~~Video~~
+[Video](https://youtu.be/og30VxQMVLU)
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
 ![github](icon/github.png) [@saro0h](https://github.com/saro0h)  
