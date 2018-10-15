@@ -365,3 +365,18 @@ By [Joel Wurtz](https://connect.sensiolabs.com/profile/brouznouf)
 By [Kevin Verschaeve](https://connect.sensiolabs.com/profile/keversc)  
 ![github](icon/github.png) [@kevin-verschaeve](https://github.com/kevin-verschaeve)  
 ![twitter](icon/twitter.png) [@keversc](https://twitter.com/keversc)
+
+---
+
+---
+
+---
+
+# Unconference Talks
+
+## Doit-on encore faire du PHP en 2018
+
+[Video](https://www.youtube.com/watch?v=xLYwZ34WSzk)
+
+By Frédéric Bouchery  
+![twitter](icon/twitter.png) [@keversc](https://twitter.com/FredBouchery)
